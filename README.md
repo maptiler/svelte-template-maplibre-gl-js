@@ -14,7 +14,7 @@ A simple fullscreen map application is used to showcase how to utilize MapTiler 
 
 ## Step-by-step tutorial - How to display a map in Svelte using MapLibre GL JS
 
-Documentation: [How to display a map in Svelte using MapLibre GL JS](https://documentation.maptiler.com/hc/en-us/articles/4416984762641-how-to-display-a-map-in-svelte-using-maplibre-gl-js?utm_medium=referral&utm_source=github&utm_campaign=2022-05%20%7C%20js%20frameworks%20%7C%20svelte)
+Documentation: [How to display a map in Svelte using MapLibre GL JS](https://docs.maptiler.com/svelte/maplibre-gl-js/how-to-use-maplibre-gl-js/?utm_medium=referral&utm_source=github&utm_campaign=2022-05%20%7C%20js%20frameworks%20%7C%20svelte)
 
 ## Demo
 
@@ -109,3 +109,10 @@ To deploy the app to the gh-pages branch, run:
 Distributed under the MIT License. See `LICENSE` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+
+Instead of using or developing a custom map component you can use the [svelte-maps](https://github.com/ONSvisual/svelte-maps).
+
+Checkout to [Get started with Svelte and MapLibre GL JS](https://github.com/maptiler/get-started-svelte-maplibre-gl-js) repo to use de svelte-maps component.
